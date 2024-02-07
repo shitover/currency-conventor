@@ -1,2 +1,2 @@
 # currency-conventor
-a basic currency conventor
+basic currency conventor
